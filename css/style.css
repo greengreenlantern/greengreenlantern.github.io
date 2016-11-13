@@ -1,0 +1,12 @@
+.new_class {
+	width: 150px;
+	height: 100px;
+}
+
+.navbar {
+	background: #5ace60;
+}
+
+.navbar-dark .navbar-brand {
+ color: black;
+}
